@@ -1,0 +1,19 @@
+{
+	"nginx": {
+		"info": "/tmp/instance/nginx.30-06-2020-05-55-40.out",
+		"entity_name": "nginx",
+		"process_ids": "2008 2012 2013 25073",
+		"config_path": "/etc/nginx/nginx.conf"
+	},
+	"php": {
+		"info": "/tmp/instance/php.30-06-2020-05-55-40.out",
+		"entity_name": "php",
+		"process_ids": "[25095 124066]",
+		"extensions": ["bcmath.so", "bz2.so", "calendar.so", "ctype.so", "curl.so", "dom.so", "exif.so", "ffi.so", "fileinfo.so", "ftp.so", "gd.so", "gettext.so", "iconv.so", "igbinary.so", "intl.so", "json.so", "mbstring.so", "mysqli.so", "mysqlnd.so", "opcache.so", "pdo_mysql.so", "pdo.so", "phar.so", "posix.so", "readline.so", "redis.so", "shmop.so", "simplexml.so", "soap.so", "sockets.so", "sysvmsg.so", "sysvsem.so", "sysvshm.so", "tokenizer.so", "xmlreader.so", "xmlrpc.so", "xml.so", "xmlwriter.so", "xsl.so", "zip.so"]
+	},
+	"wordpress": {
+		"entity_name": "wordpress",
+		"content": "/var/www/html/wordpress/wp-content",
+		"plugins": ["akismet", "hello.php", "index.php", "woocommerce"]
+	}
+}

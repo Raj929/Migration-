@@ -1,0 +1,35 @@
+Information of nginx
+
+nginx Version is:
+1.10.3-0ubuntu0.16.04.5
+
+nginx Installation Path
+/usr/sbin/nginx
+
+Process ID nginx running with:
+2008
+2012
+2013
+109188
+
+
+Wordpress version is:
+5.4.1
+
+nginx Configuration Path:
+/etc/nginx/nginx.conf
+Information of php
+
+php Version is :
+PHP 7.4.7
+
+php Installation Path
+/usr/bin/php
+
+Process ID php running with:
+109201
+124066
+
+
+Wordpress version is:
+5.4.1
